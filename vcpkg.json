@@ -1,9 +1,8 @@
 {
-    "name": "opgrabbers",
+    "name": "selftoken",
     "version-string": "1.0.0",
     "builtin-baseline": "1d0f0a396cf00af25fbcb5550917c25ac64aa240",
     "dependencies": [
-        "cpr",
 	"openssl"
     ]
 }
